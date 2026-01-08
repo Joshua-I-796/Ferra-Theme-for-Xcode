@@ -6,7 +6,7 @@ An Xcode Port for the theme Ferra (huge shout out to the original creator of thi
 Just download and copy the file into the FontAndColorThemes folder in the path:-  ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
 
 # My Ferra theme version
-
+![alt text](https://github.com/Joshua-I-796/Ferra-Theme-for-Xcode/blob/main/Screenshot%202026-01-08%20at%2001.49.15.png)
 
 
 # The Original Ferra Theme
